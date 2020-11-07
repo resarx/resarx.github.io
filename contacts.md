@@ -1,5 +1,5 @@
 # Сайт жителей ЖК Резиденции Архитекторов
-[[Главная]](https://resarx.github.io/) [[Обсуждения]](https://github.com/resarx/inbox/issues) [[Контакты]](contacts.md) [[ЧаВо]](faq.md) [[Графики]](https://datalens.yandex/aoc4zuq851025)
+[[Главная]](README.md) [[Обсуждения]](https://github.com/resarx/inbox/issues) [[Контакты]](contacts.md) [[ЧаВо]](faq.md) [[Графики]](https://datalens.yandex/aoc4zuq851025)
 
 ---
 
@@ -19,3 +19,6 @@
 reddit: https://www.reddit.com/r/resarx/
 vk.com: https://vk.com/rezarx
 сайт застройщика: https://afipochtovaya.ru/
+
+---
+[Редактировать](https://github.com/resarx/resarx.github.io/blob/main/contacts.md)
