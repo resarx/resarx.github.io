@@ -1,4 +1,4 @@
-[Контакты](contacts.md) [ЧаВо](faq.md)
+[Контакты](contacts.md) [ЧаВо](faq.md) [Графики](https://datalens.yandex/aoc4zuq851025)
 
 # Сайт жителей ЖК Резиденции Архитекторов
 
