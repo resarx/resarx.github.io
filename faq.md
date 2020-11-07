@@ -1,5 +1,5 @@
 # Сайт жителей ЖК Резиденции Архитекторов
-[[Главная]](https://resarx.github.io/) [[Обсуждения]](https://github.com/resarx/inbox/issues) [[Контакты]](contacts.md) [[ЧаВо]](faq.md) [[Графики]](https://datalens.yandex/aoc4zuq851025)
+[[Главная]](README.md) [[Обсуждения]](https://github.com/resarx/inbox/issues) [[Контакты]](contacts.md) [[ЧаВо]](faq.md) [[Графики]](https://datalens.yandex/aoc4zuq851025)
 
 ---
 
@@ -88,3 +88,6 @@
 - Не подключено электричество, даже одна фаза
 - Открывающиеся окна требуют регулировки. Либо их нельзя открыть, либо закрыть.
 - Створки могут быть не закреплены, поэтому лучше проверить все открывающиеся части
+
+---
+[Редактировать](https://github.com/resarx/resarx.github.io/blob/main/faq.md)
